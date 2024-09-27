@@ -52,15 +52,14 @@ I'm a `Web`, `Flutter`, `Machine Learning` & `Software Developer` who just love 
 <p align = "center">
  
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vipul-goyal-806236301/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PushpenderIndia) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@PushpenderIndia)
-[<img src="https://img.shields.io/badge/stackoverflow-%23F47F24.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/12084352/pushpender-singh)
-[<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/pushpenderindia/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/GipulVoyal) 
+[<img src="https://img.shields.io/badge/stackoverflow-%23F47F24.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/21384556/vipul-goyal)
+[<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/goyalvipul2002/)
 [<img src="https://img.shields.io/badge/geeksforgeeks-%232c9c10.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/pushpenderindia/)
-[<img src="https://img.shields.io/badge/codechef-%23964B00.svg?&style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/pushu_singh)
-[<img src="https://img.shields.io/badge/codeforces-%23FFFF00.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/pushpenderindia)
-[<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/pushpenderindia)
-[![Visits Badge](https://komarev.com/ghpvc/?username=PushpenderIndia&style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
+[<img src="https://img.shields.io/badge/codechef-%23964B00.svg?&style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/vipul2002)
+[<img src="https://img.shields.io/badge/codeforces-%23FFFF00.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/VipulGoyal)
+[<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/vipulgo)
+[![Visits Badge](https://komarev.com/ghpvc/?username=PushpenderIndia&style=for-the-badge)](https://github.com/Mr-Vipul)
 
 </p>
 
