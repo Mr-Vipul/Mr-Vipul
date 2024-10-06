@@ -9,7 +9,7 @@
 I'm a passionate Web, Flutter, Machine Learning, and Software Developer with a love for coding in Python
 
 - 🏆 `2x Comes in top 5 in Hackathon`
-- 🏆 `Secured 7904th Rank out of 20k+ participants in Meta Hacker Cup'24`
+- 🏆 `Secured 7904th Rank out of 20k+ participants in Meta Hacker Cup'24` - (https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/897140512288281)
 - 🏅 `Completed "Machine Learning Specialization" Course By Andrew Ng` - [Coursera Specialization Certificate](https://coursera.org/verify/specialization/Y5ADP2QXPG2T)
 - 🏅 `Completed "Generative Ai with Large Language Models" Course By DeepLearning.AI`- [Coursera Certificate](https://coursera.org/verify/JHRWQEQN1D94)
 - 👨🏽‍💻 Total DSA Questions [Visit my Codolio Profile](https://codolio.com/profile/VipulGoyal)
