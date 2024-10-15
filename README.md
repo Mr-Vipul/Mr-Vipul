@@ -6,7 +6,7 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"></p>
 
-I'm a passionate Web, App(Flutter), Machine Learning, and Software Developer with a love for coding in Python
+I'm a passionate Web, App, Machine Learning, and Software Developer with a love for coding in Python
 
 <!-- - 🏆 `2x Comes in top 5 in Hackathon` -->
 - 🏆 `Secured 7904th Rank out of 20k+ participants in Meta Hacker Cup'24`-(https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/897140512288281)
