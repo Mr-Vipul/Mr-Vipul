@@ -39,7 +39,7 @@ I'm a passionate Web, App, Machine Learning, and Software Developer with a love 
 
 
 <details open>
-<summary>🤝 <b>Connect with me</b></summary>
+<summary>🤝 <b>Let's Connect with me</b></summary>
 
 <p align = "center">
  
