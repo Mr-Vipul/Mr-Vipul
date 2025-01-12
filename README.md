@@ -1,7 +1,7 @@
 ![Header Image](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> I'm Vipul Goyal! </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> I am Vipul Goyal! </h1>
 
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"></p>
